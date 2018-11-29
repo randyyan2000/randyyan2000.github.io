@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+heading: Welcome!
+# title: About Me
 ---
+
+Welcome to the personal website of Randy Yan! I am currently a first year student in the class of 2022 studying computer science at Harvard University.
