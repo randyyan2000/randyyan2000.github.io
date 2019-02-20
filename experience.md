@@ -15,4 +15,4 @@ Activities: Club Soccer, Harvard Computer Society, Competitive Super Smash Bros.
 #### Columbus Academy
 -----
 August 2014 - June 2018  
-Activities: Varsity Soccer, Math Competitions, Science Olympiad, 
+Activities: Varsity Soccer, Math Competitions, Science Olympiad
